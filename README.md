@@ -2,6 +2,7 @@
 
 ## DOCKER
 
+
 ### Docker - Concepts et CLI
 
 - [Docker - 1. premiers pas](https://www.youtube.com/watch?v=fdlZqRZXWOc) [8:40]
@@ -44,4 +45,72 @@
 - [Docker swarm - 2. Lancement d&#39;une premier service (nginx)](https://www.youtube.com/watch?v=0ndWQd2nEsg) [7:42]
 - [Docker Swarm - 3. Déploiement en multi-services (stack deploy)](https://www.youtube.com/watch?v=eRAIUwi36Vc) [12:45]
 
+
+## GIT
+
+
+### Gitlab
+
+- [GitLab - 1. Présentation : différentes fonctions et principes](https://www.youtube.com/watch?v=aQl-IKLm_9A) [10:09]
+- [GitLab - 2. Le dépôt git (repository) : utilisation, droits...](https://www.youtube.com/watch?v=ySLhc3qdGEk) [23:07]
+- [Gitlab - 3. La registry docker](https://www.youtube.com/watch?v=2Z1QUPQ_O9M) [10:37]
+- [Gitlab - 4. Les tickets / Issues : principes, organisation... géniaux !](https://www.youtube.com/watch?v=Pa6zUk89kXg) [18:29]
+- [Gitlab - 5. Les Merge Request](https://www.youtube.com/watch?v=Gf7pKDE_1K4) [9:33]
+
+
+### Git
+
+- [Git - 1. INITIER un dépôt et premier commit](https://www.youtube.com/watch?v=0sGQgfUdCAY) [6:15]
+- [Git - 2. Configuration minimale](https://www.youtube.com/watch?v=KVULgIbyeQs) [3:05]
+- [Git - 3. Consultation des logs (git log)](https://www.youtube.com/watch?v=fqzfjATac7A) [3:46]
+- [Git - 4. Différence entre commits (git diff)](https://www.youtube.com/watch?v=ia0GqBBRySU) [3:28]
+- [Git - 5. Revenir en arrière (sur un commit)](https://www.youtube.com/watch?v=92_DY3eb4lc) [7:02]
+- [Git - 6. Git blame : analyse ligne à ligne d&#39;un fichier](https://www.youtube.com/watch?v=zGaXijY3HNA) [5:49]
+- [Git - 7. Nos premières branches](https://www.youtube.com/watch?v=Rf99iBNxQ7I) [8:28]
+- [Git - 8. Les branches en mode développement](https://www.youtube.com/watch?v=EIT6pQ7jCmE) [9:58]
+- [GIT - 9 : Découverte de TIG - outil de visualisation](https://www.youtube.com/watch?v=yaWYX4jP5Io) [5:47]
+
+
+## Sécurité
+
+
+### Iptables
+
+- [IpTables - 1. Principes et notions](https://www.youtube.com/watch?v=ByTtN3pgnP0) [10:36]
+- [IpTables - 2. Les options et chaînes](https://www.youtube.com/watch?v=ZcxY_vx6pW4) [8:06]
+- [IpTables - 3. Premières règles (drop ping)](https://www.youtube.com/watch?v=jxZ9qXtOt7o) [9:09]
+- [IpTables - 4. combinaison de règles](https://www.youtube.com/watch?v=0ufhJAUfvjE) [11:13]
+- [IpTables - 5. sécuriser une machine (principes)](https://www.youtube.com/watch?v=VP_PP8Wma3Y) [5:44]
+- [IpTables - 6. Load-Balancing avec un firewall ?](https://www.youtube.com/watch?v=OOPx7Rs0_U4) [11:50]
+- [IpTables - 7. Sauvegarde et restauration (tables de règles)](https://www.youtube.com/watch?v=bEGF5_EEGXk) [6:08]
+
+
+### TCPDump
+
+- [Tcpdump - 1 : pourquoi et principales options (hacking ?)](https://www.youtube.com/watch?v=eSiUFQavH7k) [11:12]
+- [Tcpdump - 2 : capturer de paquets d&#39;une ip et/ou un port](https://www.youtube.com/watch?v=8DbpiDHsUPU) [9:46]
+- [Tcpdump - 3 : sniffer du traffic entre 2 machines distantes](https://www.youtube.com/watch?v=anRWxBDvWB0) [10:52]
+
+
+### NetCat
+
+- [Netcat - 1. Connexion HTTP](https://www.youtube.com/watch?v=6EE1yB9yqMo) [4:20]
+- [Netcat - 2. Scan de ports](https://www.youtube.com/watch?v=ovVTkRp_QRo) [5:32]
+- [Netcat - 3. Envoi et réception de fichiers](https://www.youtube.com/watch?v=wKReZ4iBIoM) [6:35]
+- [Netcat - 4. Lancer un shell distant](https://www.youtube.com/watch?v=0tMAMdEtDOk) [7:39]
+- [Netcat - 5. Mise en place d&#39;un relai entre 2 machines](https://www.youtube.com/watch?v=rYMvguJYL_4) [9:02]
+- [Netcat - 6. CMD d&#39;un windows dans son linux](https://www.youtube.com/watch?v=HAfh9S0mPSo) [5:13]
+- [Netcat - 7. Netcat sans nc vers une socket TCP](https://www.youtube.com/watch?v=1E7jaNzjJHI) [3:02]
+- [Netcat - 8. Différencier entrées et sorties](https://www.youtube.com/watch?v=dLDfSsmJbCE) [3:24]
+- [Netcat - 9. Cryptcat pour chiffrer vos flux](https://www.youtube.com/watch?v=7JbhQ_ctNbQ) [4:00]
+
+
+## Consul : registry
+
+- [Consul - 1. Présentation et notions de services registry](https://www.youtube.com/watch?v=Esfh2WT5VX0) [7:39]
+- [Consul - 2. Installation et lancement d&#39;un serveur](https://www.youtube.com/watch?v=RwYCsk7SGfY) [12:54]
+- [Consul - 3. Création du service systemd](https://www.youtube.com/watch?v=yixDzCzWs7A) [19:17]
+- [Consul - 4. Lancement d&#39;un agent consul](https://www.youtube.com/watch?v=pESudQd8hsI) [10:26]
+- [Consul - 5. Premier service et healthcheck](https://www.youtube.com/watch?v=yHMT2BCcco8) [15:35]
+- [Consul - 6. Architecture haproxy, consultemplate et consul](https://www.youtube.com/watch?v=LmSWeW9RHEI) [26:50]
 
